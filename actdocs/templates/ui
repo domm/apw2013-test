@@ -48,7 +48,7 @@
         [% content %]
         <div class="small">
             <br />
-            Copyright &copy; 2003-2013 Verein 'Vienna.pm - Verein zur F&ouml;rderung der Programmiersprache Perl'.<br />
+            © 2003-2013 Verein 'Vienna.pm - Verein zur F&ouml;rderung der Programmiersprache Perl'.<br />
             To contact the organisers send an email to apw2013 @ plix.at
             <br />
             <a href="[% make_uri('impressum.html') %]">
