@@ -32,7 +32,18 @@
 
 <body>
 <div id="header">
-    <a href="[% make_uri('index.html') %]"><img src="[% make_uri('images/head.png') %]" title="Austrian Perl Workshop 2013 | 2nd and 3rd November" alt="" style="margin: 0px 10px" border="0"/></a>
+<t>
+<en>
+<h1>Austrian Perl Workshop 2013</h1>
+<h2>2nd and 3rd November</h2>
+<h2>Salzburg</h2>
+</en>
+<de>
+<h1>Österreichischer Perl Workshop 2013</h1>
+<h2>2. und 3. November</h2>
+<h2>Salzburg</h2>
+</de>
+</t>
 </div>
 
 <div id="container">
